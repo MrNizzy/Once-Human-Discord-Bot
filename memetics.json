@@ -1,0 +1,2093 @@
+[
+  {
+    "content": "Fragmentos de memoria de las especializaciones de meméticas:",
+    "embeds": [
+      {
+        "title": "Gravilla y Troncos al paso",
+        "description": "Si lo llevas en la mochila, reduce el peso de troncos, gravilla y minerales cargados en un 40-80%.",
+        "color": 833029,
+        "fields": [
+          {
+            "name": "❗Advertencia",
+            "value": "El efecto no se puede acumular.",
+            "inline": true
+          },
+          {
+            "name": "Tipo",
+            "value": "Prospector"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "5, 10, 15"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Piqueta: fragmento de memoria Minería a la luz de la luna",
+        "description": "Al usar la piqueta para minar, el rendimiento de minerales de cobre, estaño, hierro, aluminio y tungsteno aumenta en un 25%. El efecto se duplica por la noche (21:00 — 06:00).",
+        "color": 482820,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Prospector"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "5, 10, 15"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938884/22129ee156e4bfecac9a93263fc342c1.png/show"
+        }
+      },
+      {
+        "title": "Piqueta: fragmento de memoria Enemigo del bosque",
+        "description": "Se duplica la durabilidad de la piqueta. Obtén un +30% de rendimiento al talar con la piqueta y gana un 150% de recursos cuando destruyas por completo un árbol.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Prospector"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "5, 10, 15"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Taladro solar",
+        "description": "El taladro solar se recarga en los días soleados. Disfruta de un rendimiento de mineral de cobre, estaño, hierro, aluminio y tungsteno aumentado en un 15-40%",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Prospector"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "20, 25, 30, 35"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Motosierra eléctrica: Show de terror de la motosierra",
+        "description": "Límite de durabilidad de la motosierra +50%, velocidad de ataque de la motosierra +30% y daño cuerpo a cuerpo de la motosierra +100%.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Prospector"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "20, 25, 30, 35"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Taladro eléctrico: Caza tesoros",
+        "description": "Obtén un rendimiento de + 100% al minar mineral de oro, plata y astroceniza con un taladro eléctrico.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Prospector"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "20, 25, 30, 35"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Piqueta dorada y piqueta Plateada",
+        "description": "Las piquetas dorada y plateada tienen poca durabilidad. Al usar la piqueta dorada para minar, hay una posibilidad de recibir especia. Al usar la piqueta plateada para talar, hay una posibilidad de recibir una fruta aleatoria.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Maestro artesano"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "40, 45, 50"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Plataforma maderera de la suerte",
+        "description": "Recibe productos agrícolas aleatorios cuando se encuentra en una zona soleada.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Prospector"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "40, 45, 50"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Plataforma extractora de astroceniza",
+        "description": "Aumenta el rendimiento minero en un 20%. Puedes minar astroceniza en una zona contaminada.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Prospector"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "40, 45, 50"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Superrefinería",
+        "description": "Transforma con mejor eficiencia el ácido en combustible mixto portátil.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Fundidor"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "5, 10, 15"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Fragua: Refinado preciso",
+        "description": "Consumo de recursos -30% y tiempo de fundición -30% cuando se fundan lingotes de cobre, bronce, acero, aluminio o tungsteno usando una fragua o una fragua eléctrica.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Fundidor"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "5, 10, 15"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Banco para desmontar: Desmontaje cuidadoso",
+        "description": "Rendimiento +30% al desmontar piezas, tela y plástico.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Fundidor"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "5, 10, 15"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Procesamiento de petróleo",
+        "description": "Convierte mineral de astroceniza y combustible mixto portátil en esencia de astroceniza usando la fragua eléctrica.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Fundidor"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "20, 25, 30, 35"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Refinado de metales preciosos",
+        "description": "Funde mineral de oro y plata en lingotes con la fragua eléctrica. Pueden venderse por una gran cantidad de enlaces de energía.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Fundidor"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "20, 25, 30, 35"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Fragua eléctrica: Amante de la eficiencia",
+        "description": "Consumo de energía -50% y tiempo de fabricación -60%.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Fundidor"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "20, 25, 30, 35"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Deterioro de astroceniza",
+        "description": "Consume esencia de astroceniza para fabricar ácido con la fragua eléctrica.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Fundidor"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "40, 45, 50"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Transformación de cristal",
+        "description": "Convierte esencia de astroceniza y lingotes de aleaciones en varios tipos de cristales en la fragua eléctrica.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Fundidor"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "40, 45, 50"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Fragua eléctrica: Electrólisis",
+        "description": "Duplica el rendimiento al fundir lingotes de aluminio y tungsteno en la fragua eléctrica.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Fundidor"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "40, 45, 50"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Aumento de salto",
+        "description": "Úsalo para adquirir la habilidad de salto doble durante 30 segundos. Se puede usar hasta 5 veces.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Maquinista"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "5, 10, 15"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Oportunista de electrónicos",
+        "description": "Cuando está en tu mochila, hay una probabilidad de pequeña a media de recibir módulos electrónicos adicionales al abrir una caja de almacenamiento.",
+        "color": null,
+        "fields": [
+          {
+            "name": "❗Advertencia",
+            "value": "Este efecto no se puede acumular."
+          },
+          {
+            "name": "Tipo",
+            "value": "Maquinista"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "5, 10, 15"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Banco para desmontar: Reciclaje electrónico",
+        "description": "Rendimiento +50% de restos metálicos y partes electrónicas.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Maquinista"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "5, 10, 15"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Cañón elevador portátil",
+        "description": "Se usa para invocar temporalmente una corriente ascendente durante 30 segundos. Cuando estás dentro de la corriente, la altura del salto aumenta. Se puede usar hasta 10 veces.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Maquinista"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "20, 25, 30, 35"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Juego de chips combinado",
+        "description": "Convierte piezas electrónicas, restos metálicos y piezas en un juego de chips combinado en el banco de suministros. Puede venderse por una gran cantidad de enlaces de energía.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Maquinista"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "20, 25, 30, 35"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Torreta ametralladora portátil: Aluvión de balas",
+        "description": "Al disparar la torreta ametralladora se puede activar el efecto rebote, que aumenta los PS y el daño en un 30%. La torreta ametralladora es ahora un objeto reutilizable, con un máximo de 5 usos.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Maquinista"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "20, 25, 30, 35"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Capa espectral",
+        "description": "Actívala para usar una capa por 120 segundos. Cuando termine el combate, entrarás en modo silencioso. Se puede usar hasta 10 veces.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Maquinista"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "40, 45, 50"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Dron explorador: Cazador invisible",
+        "description": "Dron explorador obtiene el efecto Diana y +30% de PS y daño. Ahora los drones exploradores pueden usarse hasta 5 veces.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Maquinista"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "40, 45, 50"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Barrera de astroceniza: Mantener la línea",
+        "description": "+50% de PS a las barreras de astroceniza. Al desplegarla, todos los aliados en un radio de 3 m recuperan un 50% de PS. Además, ahora las barreras de astroceniza se pueden usar 5 veces.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Maquinista"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "40, 45, 50"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Bolsa de explosivos",
+        "description": "Cuando 10 llevas en la mochila, hay un 30-60% de probabilidad de conseguir un componente explosivo tras usar granadas de alta potencia, granadas de fragmentación y explosivos sencillos. Hay un 30-60% de probabilidad de obtener azufre tras usar bombas molotov y granadas de termita.",
+        "color": null,
+        "fields": [
+          {
+            "name": "❗Advertencia",
+            "value": "Este efecto no se puede acumular"
+          },
+          {
+            "name": "Tipo",
+            "value": "Experto en demolición"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "5, 10, 15"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Explosivo al paso",
+        "description": "Cuando 10 llevas en la mochila, reduce en un 30-60% el peso de las granadas, las bombas molotov, los explosivos de alta potencia, las granadas de fragmentación y de termita, cohetes de lanzacohetes y granadas de lanzagranadas. Tras usar un objeto arrojadizo, aumenta la velocidad de carrera en un 20% durante 2 segundos.",
+        "color": null,
+        "fields": [
+          {
+            "name": "❗Advertencia",
+            "value": "Este efecto no se puede acumular"
+          },
+          {
+            "name": "Tipo",
+            "value": "Experto en demolición"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "5, 10, 15"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Daga arrojadiza: En el blanco",
+        "description": "+30% de daño a la daga arrojadiza. Al eliminar a un enemigo con una daga arrojadiza, el siguiente obtiene + 100% de daño.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Maquinista"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "5, 10, 15"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Química del azufre",
+        "description": "Se puede usar azufre y enlace de energía en el banco de síntesis para producir ácido lentamente.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Experto en demolición"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "20, 25, 30, 35"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Objetos arrojadizos explosivos: Explosión eco",
+        "description": "Aumenta el daño en un 30% de las granadas de alta potencia, granadas de fragmentación, bombas molotov y granadas de termita. El primer objetivo eliminado provocará 1 explosión adicional que causará un daño equivalente al 400% de poder psíquico.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Experto en demolición"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "20, 25, 30, 35"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Mina claymore: Determinación del guerrero",
+        "description": "La mina claymore causa 4000 + 400% de daño de poder psíquico adicional y aumenta los PS máx. en un 400% de poder psíquico.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Experto en demolición"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "20, 25, 30, 35"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Cuchillo de oro",
+        "description": "Un cuchillo arrojadizo hecho de oro que causa mucho daño. Cuando alcanza a un enemigo, activa el efecto Bombardero inestable. Cuando alcanza el punto débil de una aberración, activa 1 efecto adicional de Bombardero inestable.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Experto en demolición"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "40, 45, 50"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Ojiva de cohete de alta potencia",
+        "description": "Una ojiva de lanzacohetes de alta eficacia. Es más ligera y causa más daño a edificios y vehículos.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Experto en demolición"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "40, 45, 50"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Ultragranada",
+        "description": "Daño explosivo aumentado y bonificación adicional contra edificios y vehículos.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Experto en demolición"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "40, 45, 50"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Expansión de mochila",
+        "description": "Cuando lo llevas en la mochila, aumenta la carga máxima en 40-80.",
+        "color": null,
+        "fields": [
+          {
+            "name": "❗Advertencia",
+            "value": "Este efecto no se puede acumular"
+          },
+          {
+            "name": "Tipo",
+            "value": "Maestro artesano"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "5, 10, 15"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Banco de suministros: Fábrica de munición",
+        "description": "Producción de fabricación +50% al fabricar munición normal.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Maestro artesano"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "5, 10, 15"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Banco de equipamiento: Personalización",
+        "description": "Las armas y armaduras fabricadas con el banco de equipamiento tienen +30% de durabilidad máxima.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Maestro artesano"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "5, 10, 15"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Banco de síntesis: Reciclar y reutilizar",
+        "description": "Al fabricar drones, torretas, escudos de astroceniza, generadores de espectro y generadores de proyecciones, aumenta en 1 su cantidad de usos.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Maestro artesano"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "20, 25, 30, 35"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Banco de suministros: Aumento de la curación",
+        "description": "Recuperación de PS + 10% al fabricar activadores. Producción + 1.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Maestro artesano"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "20, 25, 30, 35"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Inyección de adrenalina: Fénix",
+        "description": "Recibe menos daño durante los primeros 10 segundos tras reaparecer y recupera PS lentamente.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Maestro artesano"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "20, 25, 30, 35"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Juego de cristales inusual",
+        "description": "Convierte cristales en el juego de cristales inusual con la fragua eléctrica. Puede venderse por una gran cantidad de enlaces de energía.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Maestro artesano"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "40, 45, 50"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Regulador de astroceniza",
+        "description": "Recupera un 70% de PS de inmediato y obtienes escudo por un 30% de los PS máx. Tiene una recarga de 30 segundos (independiente de la recarga de los activadores) y se puede usar hasta 15 veces.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Maestro artesano"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "40, 45, 50"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Banco de suministros: Antiarmadura",
+        "description": "Rendimiento +30% y tiempo de fabricación -50% al fabricar munición AB.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Maestro artesano"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "40, 45, 50"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Hoz de cosecha",
+        "description": "Cuando 10 llevas en la mochila, hay entre un 20-40% de posibilidades de duplicar el rendimiento al recolectar en las tierras salvajes.",
+        "color": null,
+        "fields": [
+          {
+            "name": "❗Advertencia",
+            "value": "Este efecto no se puede acumular"
+          },
+          {
+            "name": "Tipo",
+            "value": "Hijo de la tierra"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "5, 10, 15"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Compostera",
+        "description": "Cuando está en tu mochila, si llevas comida podrida, se consumirá 1-3 unidades de comida podrida cada 5-10 minutos, y se convertirán en champiñones o un fertilizante aleatorio.",
+        "color": null,
+        "fields": [
+          {
+            "name": "❗Advertencia",
+            "value": "Este efecto no se puede acumular"
+          },
+          {
+            "name": "Tipo",
+            "value": "Hijo de la tierra"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "5, 10, 15"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Guantes de jardinería",
+        "description": "Cuando 10 llevas en la mochila, hay entre un 6-12% de posibilidades de duplicar las semillas al adquirirlas.",
+        "color": null,
+        "fields": [
+          {
+            "name": "❗Advertencia",
+            "value": "Este efecto no se puede acumular"
+          },
+          {
+            "name": "Tipo",
+            "value": "Hijo de la tierra"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "5, 10, 15"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Fertilizante compuesto mejorado",
+        "description": "Fertilizante de cultivos que puede mejorar muchísimo el índice de mutación y el rendimiento, pero que también ralentizará el crecimiento.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Hijo de la tierra"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "20, 25, 30, 35"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Generador solar: Potencia fotónica",
+        "description": "Producción de energía del generador solar +10 W.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Electricista"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "20, 25, 30, 35"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Generador de biomasa: Producción sostenida",
+        "description": "Aumenta la potencia del generador de biomasa en 5 W y la duración del combustible en un 150%.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Electricista"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "20, 25, 30, 35"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Generador: Veteranía en electricidad",
+        "description": "+1 a la cantidad máx. de generadores. Producción de energía +2 W.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Electricista"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "20, 25, 30, 35"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Generador hidráulico: Vuélvete uno con las mareas",
+        "description": "+1 a la cantidad máxima de generadores. Producción de energía +0-7 W, dependiendo de la velocidad del flujo de agua.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Electricista"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "40, 45, 50"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Generador de poder de anomalía",
+        "description": "Aumenta la producción de energía del generador de poder de anomalía en un 15%.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Electricista"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "40, 45, 50"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Regulador de impulso de rayos",
+        "description": "Cuando está en tu mochila, recupera todos los PS, aumenta la velocidad de movimiento un 15% y el poder psíquico un 30% durante 60 s cuando te golpea un rayo.",
+        "color": null,
+        "fields": [
+          {
+            "name": "❗Advertencia",
+            "value": "Este efecto no se puede acumular"
+          },
+          {
+            "name": "Tipo",
+            "value": "Electricista"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "40, 45, 50"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Filtro de carbón activado",
+        "description": "Cuando está en tu mochila, al recoger agua con un frasco, hay un 30% de probabilidad de recibir agua hervida o agua pura.",
+        "color": null,
+        "fields": [
+          {
+            "name": "❗Advertencia",
+            "value": "Este efecto no se puede acumular"
+          },
+          {
+            "name": "Tipo",
+            "value": "Ingeniero hidráulico"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "5, 10, 15"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Sistema de recolección de agua",
+        "description": "Cuando lo llevas en la mochila, recupera lentamente hidratación. Hay un 30-60% de probabilidad de recibir +1 agua sucia, agua pura o ácido por minuto cuando llueve.",
+        "color": null,
+        "fields": [
+          {
+            "name": "❗Advertencia",
+            "value": "Este efecto no se puede acumular"
+          },
+          {
+            "name": "Tipo",
+            "value": "Ingeniero hidráulico"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "5, 10, 15"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Equipamiento de buceo portátil",
+        "description": "Cuando 10 llevas en la mochila, aumenta el oxígeno un 40-100% y la velocidad de nado un 20-40% al bucear.",
+        "color": null,
+        "fields": [
+          {
+            "name": "❗Advertencia",
+            "value": "Este efecto no se puede acumular"
+          },
+          {
+            "name": "Tipo",
+            "value": "Ingeniero hidráulico"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "5, 10, 15"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Bomba de agua de astroceniza",
+        "description": "Una bomba de agua especial que puede esencia de astroceniza del suelo contaminado cuando se le suministra suficiente energía.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Ingeniero hidráulico"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "20, 25, 30, 35"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Cuchillo de chef",
+        "description": "Cuando 10 llevas en tu mochila, obtienes este efecto: Producción de carne +1 cuando preparas a un animal en el campo, con una probabilidad de entre el 30% y el 60% do obtener un producto secundario.",
+        "color": null,
+        "fields": [
+          {
+            "name": "❗Advertencia",
+            "value": "Este efecto no se puede acumular"
+          },
+          {
+            "name": "Tipo",
+            "value": "Chef Estrella"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "5, 10, 15"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Cocina: Almacenamiento a largo plazo",
+        "description": "Duplica la vida útil de los platos que cocinas.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Chef Estrella"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "5, 10, 15"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Asado y seco: Lento y tranquilo",
+        "description": "Platos asados y secos otorgan +15 de energía y + 10% de cordura.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Chef Estrella"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "5, 10, 15"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Refrigerador portátil",
+        "description": "Cuando 10 llevas en la mochila, reduce la rapidez de putrefacción de la comida en tu mochila en un 70-90%.",
+        "color": null,
+        "fields": [
+          {
+            "name": "❗Advertencia",
+            "value": "Este efecto no se puede acumular"
+          },
+          {
+            "name": "Tipo",
+            "value": "Chef Estrella"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "20, 25, 30, 35"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Golosina helada: Cerebro congelado",
+        "description": "Duración del efecto Golosina helada +200% Y potencia 430%.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Chef Estrella"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "20, 25, 30, 35"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Comida enlatada: Minienvase",
+        "description": "Rendimiento +1 al fabricar comida enlatada.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Chef Estrella"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "20, 25, 30, 35"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Sorpresita de Nalcott",
+        "description": "Se usa para recibir al azar el contenido de una caja de botín de asentamiento.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Chef Estrella"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "40, 45, 50"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Conjunto de cocina: Goloso",
+        "description": "Efectos base de todos los platos +30% cuando se preparan con un conjunto de cocina. Duración del efecto +50% y tiempo de fabricación -50%.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Chef Estrella"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "40, 45, 50"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Plato de astroceniza: Rompescudos",
+        "description": "El plato de astroceniza otorga 2 efectos especiales de trastornos. A los 30 minutos de haberlo usado, recupera PS continuamente mientras la cordura está llena.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Chef Estrella"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "40, 45, 50"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Caja de almacenamiento personalizada",
+        "description": "Una gran caja de almacenamiento con 64 espacios para objetos.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Artesano"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "5, 10, 15"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Estructuras de madera: Planta resistente",
+        "description": "Las estructuras construidas con madera obtienen el efecto Planta resistente y +150% de durabilidad.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Artesano"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "5, 10, 15"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Cama: Un hogar",
+        "description": "Duerme durante más de 10 segundos para curar todas las enfermedades y reducir la pérdida de aguante durante los siguientes 10 minutos.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Artesano"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "5, 10, 15"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Estructuras de piedra: Defensa intensa",
+        "description": "Las estructuras construidas en piedra obtienen el efecto defensa intensa, durabilidad + 100% y + 100 al número máximo de objetos estructurales que se pueden colocar en tu territorio al mismo tiempo.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Artesano"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "20, 25, 30, 35"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Fragua: Sintetización",
+        "description": "Tiempo de fabricación de ladrillo sinterizado y vidrio -50%. Rendimiento +100%.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Artesano"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "20, 25, 30, 35"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Cañón elevador: Bajo en gravedad",
+        "description": "La gravedad se reduce alrededor del cañón elevador y la velocidad de movimiento aumenta durante 5 segundos.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Artesano"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "20, 25, 30, 35"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Estructuras reforzadas: Defensa curativa",
+        "description": "Las estructuras reforzadas obtienen el efecto defensa curativa. Cuando tu territorio no está combate, la durabilidad de las estructuras reforzadas se restablece automáticamente al 80%.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Artesano"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "40, 45, 50"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Defensa básica: Curtido en batalla",
+        "description": "Los sacos de arena, los refugios y las fortificaciones altas obtienen el efecto curtido en batalla. Durabilidad + 100%. Cuando tu territorio no está en combate, la durabilidad se recupera al 100%.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Mariscal de Artillería"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "5, 10, 15"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Trampa lanzallamas: Estallido abrasador",
+        "description": "Daño de trampa lanzallamas +30%. Cuando la trampa lanzallamas elimina a un enemigo, se desencadena una explosión que causa daño explosivo AdE a todas las unidades cercanas (recarga de 1 segundo)",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Mariscal de Artillería"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "5, 10, 15"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Instalación robótica: Mecánico especializado",
+        "description": "Aumenta la durabilidad de las trampas y las torretas con fusil un 50%.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Mariscal de Artillería"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "5, 10, 15"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Torreta con escopeta: Disparo en ráfaga",
+        "description": "+30% de daño y -30% de consumo de energía para la torreta con escopeta, con un 30% de probabilidad de activar el efecto Metralla.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Mariscal de Artillería"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "20, 25, 30, 35"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Misil de biomasa: Munición suficiente",
+        "description": "Misiles de plasma pesan un 80% menos. +2 de rendimiento al fabricar.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Mariscal de Artillería"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "20, 25, 30, 35"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Amarre gravitacional: Lazos...",
+        "description": "Cuando un enemigo activa la trampa de amarre gravitacional, hay un 20% de probabilidades de que también cause el efecto Diana.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Mariscal de Artillería"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "20, 25, 30, 35"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Rondas de plasma rojo",
+        "description": "Munición especial utilizada por los cañones Gatling, Son extremadamente caras pero superpotentes. La bala no cae en su trayectoria, causa muchísimo daño y tiene un gran radio explosivo. Puede conservarse durante 24 horas.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Mariscal de Artillería"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "40, 45, 50"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Cañón Gatling: Estallido de energía",
+        "description": "+30% de daño a los cañones Gatling. Cuando tu territorio no está en combate, la durabilidad se recupera al 100%.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Mariscal de Artillería"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "40, 45, 50"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Torretas con fusil: Dos pájaros de un tiro",
+        "description": "Daño de la torreta con fusil +30%, durabilidad +30% y los ataques al objetivo activan un efecto de Rebote.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Mariscal de Artillería"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "40, 45, 50"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Motos de nieve",
+        "description": "Se puede fabricar en el Banco de Suministros. Velocidad de movimiento en nieve +20%, Velocidad de movimiento en ventisca +10%, Resistencia al frío +10.",
+        "color": null,
+        "fields": [
+          {
+            "name": "❗Advertencia",
+            "value": "Este efecto no se puede acumular"
+          },
+          {
+            "name": "Tipo",
+            "value": "Maestro artesano"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "5"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Pimiento picante",
+        "description": "Los platos que incluyen Pimienta picante como ingrediente son un 30% más efectivos. Al consumirlos, infligen DMG equivalentes a un 10% de Intensidad Psíquica a los enemigos cercanos, con un 30% de probabilidad de infligir DMG adicionales equivalentes a un 90% de Intensidad Psíquica y 1 acumulación de Quemadura.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Chef Estrella"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "5"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Horno: Horno grande",
+        "description": "Por cada 5 °C de aumento de la temperatura ambiente, la producción aumenta un 1%, sin límite superior.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Fundidor"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "10"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Ventilador de aspas",
+        "description": "Compuesto por varias dagas arrojadizas. Al golpear a un objetivo, desencadena distintos efectos en función de las dagas arrojadizas utilizadas.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Mariscal de Artillería"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "15"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Daga Arrojadiza de Hielo y Daga Arrojadiza de Llama",
+        "description": "Puede fabricarse con Mineral de roca caliente o Mineral de cristal frío en el Banco de suministros. Aumenta o reduce la temperatura ambiental del objetivo al golpearlo.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Experto en demolición"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "20"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Cama: Conservación del calor",
+        "description": "Duerme más de 10 s para ganar un 30% de Resistencia al frío durante los siguientes 30 minutos.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Artesano"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "20"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Extracción de pólvora",
+        "description": "Utiliza mineral de roca caliente y otros materiales para fabricar pólvora en el banco de suministros.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Fundidor"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "20"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      },
+      {
+        "title": "Jardinera: Plantación en invernadero",
+        "description": "Aumenta la tasa de crecimiento de los cultivos. Rendimiento +1 por cada 20°C de aumento de la temperatura.",
+        "color": null,
+        "fields": [
+          {
+            "name": "Tipo",
+            "value": "Hijo de la tierra"
+          },
+          {
+            "name": "Niveles de especialización",
+            "value": "20"
+          }
+        ],
+        "author": {
+          "name": "Fragmento de memoria",
+          "icon_url": "https://i.ibb.co/p32RSfn/fluent-emoji-pick.png"
+        },
+        "thumbnail": {
+          "url": "https://img.game8.co/3938905/126aa01a8e67124eede2b66929ddec22.png/show"
+        }
+      }
+    ],
+    "attachments": []
+  }
+]
