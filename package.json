@@ -1,0 +1,19 @@
+{
+  "name": "once-human-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "OnceHumanBot": "file:",
+    "discord.js": "14.16.3",
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.1.7"
+  }
+}
